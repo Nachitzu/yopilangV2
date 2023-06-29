@@ -1,0 +1,10 @@
+Xylok
+y = 2
+y ++
+print y
+x = 5
+x = x / y
+Bik (x == 10){x=x+y}
+z = sin(5)
+print z
+Zynd

@@ -1,0 +1,9 @@
+begin
+entero = 3
+flotante = 3.5
+flotante = entero + flotante 
+if ( True ) {
+    print ( flotante )
+}
+print ( flotante )
+end
